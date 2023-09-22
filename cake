@@ -1,3 +1,19 @@
+<div class="shop">
+<img src="images/shop.jpg">
+</div>
+<div class="cakes">
+<img src="images/cake01.jpg">
+</div>
+<div class="cakes">
+<img src="images/cake02.jpg">
+</div>
+<div class="cakes">
+<img src="images/cake03.jpg">
+</div>
+<div class="cakes">
+<img src="images/cake04.jpg">
+</div>
+
 img{
   width:100%;
 }
